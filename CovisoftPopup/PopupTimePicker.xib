@@ -10,7 +10,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
-        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PopupTimePicker">
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PopupTimePicker" customModule="Milestone">
             <connections>
                 <outlet property="btnClose" destination="ywQ-bF-fa9" id="l26-t2-yUT"/>
                 <outlet property="btnLeft" destination="srS-8j-Tsw" id="m7a-iS-DgB"/>
